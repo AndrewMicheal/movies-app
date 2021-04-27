@@ -1,0 +1,9 @@
+.login-container{
+    background-color: rgba(41, 41, 40, 0.8);
+    padding: 6rem!important;
+    box-shadow: 2px 2px 18px 3px #fff;
+    width: 65%;
+}
+.myButton {
+    cursor: no-drop!important;
+}

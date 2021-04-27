@@ -1,0 +1,53 @@
+
+.section-content {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 120vh;
+    position: relative;
+    background-size: cover;
+}
+.tv-detail-content {
+    position: absolute;
+    left: 10%;
+    width: 80vw;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tv-title , .vount-count , .number_of_seasons , .number_of_episodes{
+    color: #ffA500;
+}
+.tv-title {
+    font-size: 60px;
+}
+.tv-tagline {
+    color: #f3db00;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.tv-desc {
+    line-height: 1.6;
+    color: #fff;
+}
+.image {
+    box-shadow: 10px 10px 5px #000;
+}
+.number_of_episodes , .vount-count , .number_of_seasons {
+    font-size: 20px;
+    display: block;
+}
+.cast-star , .official-star {
+    color: #f1d9aa;
+}
+
+.cast-item , .official-trailer{
+    color: orange;
+    font-size: 30px;
+    letter-spacing: 1.2px;
+}
+
+.trailer {
+    width: 80vw;
+    height: 80vh;
+}
